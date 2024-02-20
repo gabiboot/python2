@@ -1,1 +1,2 @@
 # python2
+Este repositorio incluye trabajos pedidos en la parte IV y final del curso "Python 3.12 de Cero a Pro" y tambien trabajos propios para practica de codigo, donde  se abarcan distintos contenidos en profundidad como es el desarrollo en python orientado a objetos, sus clases, polimorfismo y herencia, encapsulamiento y mas. Asi mismo, se hace uso de todo lo aprendido en clases y desarrollos anteriores.
